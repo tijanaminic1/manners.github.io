@@ -190,7 +190,7 @@ body, h1, h2, h3, p, ul, li {
 
 @media (max-width: 768px) {
   .site-logo {
-    weight: 50px; 
+    width: 1; 
   }
 
   header {
